@@ -1,6 +1,6 @@
 .header {
-    background-color: rgb(30, 30, 49);
-    color: rgb(180,150, 3);
+    background-color: rgb(49, 49, 53);
+    color: rgb(148, 41, 41);
     font-weight: bold;
     padding: 30px
     
@@ -17,10 +17,25 @@
 
 .nav {
     text-align: center;
-    color: rgb(180, 150, 3);
+    color: rgb(148, 41, 41);
     padding: 10px;
+}
+
+.section-formatting {
+    padding:2%
 }
 
 .half-width-column {
     width: 50%;
+}
+
+.content-box {
+    margin-left: 3%;
+    text-align: justify
+}
+
+
+.background-color {
+    background-color: rgb(49, 49, 53);
+    color: rgb(197, 196, 194);
 }
