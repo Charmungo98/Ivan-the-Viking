@@ -1,6 +1,9 @@
-.page-header {
-    text-align: center;
+.header {
+    background-color: rgb(30, 30, 49)
+}
 
+.page-heading {
+    text-align: center;
 }
 
 .nav {
