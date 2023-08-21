@@ -1,3 +1,5 @@
+/***** HEADER *****/
+
 .header {
     background-color: rgb(49, 49, 53);
     color: rgb(148, 41, 41);
@@ -21,17 +23,23 @@
     padding: 10px;
 }
 
+
+
+
+/****** PARAGRAPH CONTENT ******/
+
 .section-formatting {
-    padding:2%
+    padding:2%;
 }
 
-.half-width-column {
-    width: 50%;
-}
 
 .content-box {
     margin-left: 3%;
-    text-align: justify
+    border: 4px solid rgb(148, 41, 41);
+    padding: 10px;
+    text-align: justify;
+    display: inline-block;
+    width: 50%
 }
 
 
