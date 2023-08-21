@@ -1,8 +1,8 @@
 /***** HEADER *****/
 
 .header {
-    background-color: rgb(49, 49, 53);
-    color: rgb(148, 41, 41);
+    background-color: rgb(27, 27, 28);
+    color: rgb(98, 73, 238);
     font-weight: bold;
     padding: 30px
     
@@ -19,14 +19,26 @@
 
 .nav {
     text-align: center;
-    color: rgb(148, 41, 41);
+    color:rgb(98, 73, 238);
     padding: 10px;
+}
+
+.nav:hover {
+    text-decoration: none;
+}
+
+#seperating-line {
+    height: 10px;
+    background-color:rgb(98, 73, 238);
 }
 
 
 
-
 /****** PARAGRAPH CONTENT ******/
+
+.text-center {
+    text-align: center;
+}
 
 .section-formatting {
     padding:2%;
@@ -34,16 +46,25 @@
 
 
 .content-box {
-    margin-left: 3%;
-    border: 4px solid rgb(148, 41, 41);
+    background-color: rgba(98, 73, 238, 0.13);
     padding: 10px;
     text-align: justify;
     display: inline-block;
-    width: 50%
+    width: 50%;
 }
 
 
 .background-color {
     background-color: rgb(49, 49, 53);
-    color: rgb(197, 196, 194);
+    color: rgb(220, 220, 218);
+}
+
+#longboat {
+    float: right;
+    height: 20%;
+    width:50%;
+}
+
+#h2 {
+    color: aliceblue;
 }
