@@ -1,15 +1,19 @@
 .header {
-    background-color: rgb(30, 30, 49)
+    background-color: rgb(30, 30, 49);
+    color: rgb(177, 171, 53);
+    font-weight: bold;
 }
 
 .page-heading {
     text-align: center;
+    
 }
 
 .nav {
     text-align: center;
-}
-
-.a-nav {
+    color: rgb(177,
+        171,
+        53);
     padding: 10px;
 }
+
