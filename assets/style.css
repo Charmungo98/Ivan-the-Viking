@@ -41,30 +41,29 @@
 }
 
 .section-formatting {
-    padding:2%;
+    padding:5%;
+    margin-bottom: 5%;
 }
 
-
-.content-box {
+.viking-invasion {
     background-color: rgba(98, 73, 238, 0.13);
-    padding: 10px;
     text-align: justify;
-    display: inline-block;
+    width: 50%;
+    margin-bottom: 20px;
+}
+.viking-york {
+    background-color: rgba(98, 73, 238, 0.13);
+    text-align: justify;
+    float: right;
     width: 50%;
 }
-
 
 .background-color {
     background-color: rgb(49, 49, 53);
     color: rgb(220, 220, 218);
 }
 
-#longboat {
-    float: right;
-    height: 20%;
-    width:50%;
-}
-
 #h2 {
     color: aliceblue;
 }
+
