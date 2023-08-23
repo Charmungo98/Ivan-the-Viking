@@ -12,10 +12,6 @@
     text-decoration: underline;
 }
 
-.header-paragraph {
-    text-align: center;
-    color: rgb(241, 240, 245);
-}
 
 .nav {
     text-align: center;
@@ -29,7 +25,7 @@
 
 #seperating-line {
     height: 10px;
-    background-color:rgb(34, 151, 13);
+    background-color:rgb(241, 240, 245);
 }
 
 
