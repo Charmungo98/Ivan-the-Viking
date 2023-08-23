@@ -2,7 +2,7 @@
 
 .header {
     background-color: rgb(27, 27, 28);
-    color: rgb(98, 73, 238);
+    color: rgb(243, 241, 250);
     font-weight: bold;
     padding: 30px
     
@@ -19,7 +19,7 @@
 
 .nav {
     text-align: center;
-    color:rgb(98, 73, 238);
+    color:rgb(241, 240, 245);
     padding: 10px;
 }
 
@@ -29,7 +29,7 @@
 
 #seperating-line {
     height: 10px;
-    background-color:rgb(98, 73, 238);
+    background-color:rgb(73, 125, 238);
 }
 
 
@@ -42,24 +42,24 @@
 
 .section-formatting {
     padding:5%;
-    margin-bottom: 5%;
-}
+    }
 
-.viking-invasion {
-    background-color: rgba(98, 73, 238, 0.13);
+.viking-timeline-left {
+    background-color: rgb(34, 33, 33);
     text-align: justify;
     width: 50%;
-    margin-bottom: 20px;
+    padding: 5px;
 }
-.viking-york {
-    background-color: rgba(98, 73, 238, 0.13);
+.viking-timeline-right {
+    background-color: rgb(30, 29, 29);
     text-align: justify;
     float: right;
     width: 50%;
+    padding: 5px;
 }
 
 .background-color {
-    background-color: rgb(49, 49, 53);
+    background-color: rgb(5, 5, 5);
     color: rgb(220, 220, 218);
 }
 
