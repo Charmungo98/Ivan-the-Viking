@@ -2,7 +2,7 @@
 
 .header {
     background-color: rgb(27, 27, 28);
-    color: rgb(243, 241, 250);
+    color: rgb(240, 236, 13);
     font-weight: bold;
     padding: 30px
     
@@ -14,7 +14,8 @@
 }
 
 .header-paragraph {
-    text-align: center
+    text-align: center;
+    color: rgb(241, 240, 245);
 }
 
 .nav {
@@ -29,12 +30,12 @@
 
 #seperating-line {
     height: 10px;
-    background-color:rgb(73, 125, 238);
+    background-color:rgb(34, 151, 13);
 }
 
 
 
-/****** PARAGRAPH CONTENT ******/
+/****** index.HTML PARAGRAPH CONTENT ******/
 
 .text-center {
     text-align: center;
@@ -50,7 +51,7 @@
     float:left;
     width: 50%;
     padding: 15px;
-    margin: 15px;
+    margin-bottom: 10%;
     border-radius: 25px;
     border: 2px solid #f1f3ef;
 }
@@ -59,8 +60,8 @@
     text-align: justify;
     float: right;
     width: 50%;
-    padding: 5px;
-    margin: 15px;
+    padding: 15px;
+    margin-bottom: 10%;
     border-radius: 25px;
     border: 2px solid #f1f3ef;
 }
@@ -70,7 +71,11 @@
     color: rgb(220, 220, 218);
 }
 
-#h2 {
-    color: aliceblue;
+.h3 {
+    color: rgb(240, 236, 13);
+}
+
+.h2 {
+    color: rgb(240, 236, 13);
 }
 
