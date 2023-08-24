@@ -29,6 +29,10 @@
     background-color:rgb(241, 240, 245);
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 
 
 /****** index.HTML PARAGRAPH CONTENT ******/
@@ -82,19 +86,38 @@
     float: right;
 }
 
-/***** paragraph content ivar.HTML *****/
-
-.ivar-content {
-    background-color: rgb(30, 29, 29);
+/***** ivar.HTML content *****/
+.ivar-left {
+    background-color: rgb(34, 33, 33);
     text-align: justify;
-    float: right;
+    float: left;
+    width: 50%;
     padding: 15px;
     margin-bottom: 10%;
+    margin-left: 10%;
     border-radius: 25px;
     border: 2px solid #f1f3ef;
 }
 
-article {
-    width:50%;
-    margin-bottom: 3%;
+.ivar-right {
+    background-color: rgb(30, 29, 29);
+    text-align: justify;
+    float: right;
+    width: 50%;
+    padding: 15px;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+    border: 2px solid #f1f3ef;
 }
+
+
+/***** timeline.HTML content *****/
+.timeline-content {
+    background-color: rgb(30, 29, 29);
+    text-align: justify center;
+    padding: 15px;
+    margin-bottom: 3%;
+    border-radius: 25px;
+    border: 2px solid #f1f3ef;
+    }
